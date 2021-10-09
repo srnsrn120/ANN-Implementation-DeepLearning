@@ -1,9 +1,9 @@
 tensorflow
 matplotlib
+seaborn
 numpy
 pandas
-seaborn
+PyYAML
 
-#Local package installation
-#conda env export 
--e. ### <<< To install local packages defined in setup.py
+## local package instalation
+-e . ### <<< To install local packages defined in setup.py
